@@ -1,5 +1,4 @@
 spotipy
 streamlit
 datetime
-os
 json
