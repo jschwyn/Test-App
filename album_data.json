@@ -1,0 +1,30 @@
+[
+    {
+        "id": "2026-02-25T13:44:50.605423",
+        "spotify_id": "468ZwCchVtzEbt9BHmXopb",
+        "album": "Meddle",
+        "artist": "Pink Floyd",
+        "year": "1971",
+        "genre": "",
+        "rating": 5.0,
+        "notes": "Everything.",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2739eee212bba82bed8da96a8f7",
+        "popularity": 0,
+        "label": "",
+        "total_tracks": 6
+    },
+    {
+        "id": "2026-02-25T14:44:14.012861",
+        "spotify_id": "07YS7ooqYtvPZLlW59MHY5",
+        "album": "The New Sound",
+        "artist": "Geordie Greep",
+        "year": "2024",
+        "genre": "",
+        "rating": 4.0,
+        "notes": "",
+        "cover": "https://i.scdn.co/image/ab67616d0000b2735d59daf2d1c0baa6bd7c60ac",
+        "popularity": 0,
+        "label": "",
+        "total_tracks": 11
+    }
+]
